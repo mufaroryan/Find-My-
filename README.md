@@ -72,7 +72,7 @@ unt-lost-found/
 └── screenshots/                            # the 11 final app screens
 ```
 
-The PDF and PowerPoint include a design system page, a prototype flow map, an overview of the final screens, and one page per screen. Each screen page shows the wireframe next to the final app screenshot, with its purpose, navigation, and UX notes.
+The PDF includes a design system page, a prototype flow map, an overview of the final screens, and one page per screen. Each screen page shows the wireframe next to the final app screenshot, with its purpose, navigation, and UX notes.
 
 ## Team
 
