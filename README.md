@@ -33,7 +33,7 @@ Students lose items across a large campus, and found items often have no clear p
 | Confirmation | Success message, report summary, and a possible-match notice |
 | Settings | Account information, notification toggles, and About |
 
-## Screens
+## Screenshots
 
 | | | | |
 | :---: | :---: | :---: | :---: |
