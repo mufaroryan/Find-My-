@@ -78,9 +78,10 @@ The PDF and PowerPoint include a design system page, a prototype flow map, an ov
 
 | Name | Role |
 | --- | --- |
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
+| Mufaro Ngwenya | _Add role_ |
+| Raul Karki| _Add role_ |
+| Jakolby King | _Add role_ |
+| Osaivbie Obaje | _Add role_ |
 
 ## Course
 
